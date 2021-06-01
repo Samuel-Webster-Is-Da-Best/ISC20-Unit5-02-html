@@ -2,7 +2,7 @@ document.getElementById('btn1').addEventListener('click', hello)
 document.getElementById('btn2').addEventListener('click', changes)
 
 function hello () {
-  alert ('yeet')
+  alert('yeet')
 }
 
 function changes () {
